@@ -270,7 +270,10 @@ a.hoverline:hover {
   height: auto;
 }
 .card.medium .card-image {
-  height: 240px;
+  height: 40%;
+}
+.card-image img {
+  height: 100%;
 }
 .card-action a.btn-floating {
   margin-bottom: 0;
